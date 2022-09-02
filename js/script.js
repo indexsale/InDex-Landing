@@ -188,7 +188,7 @@
         month: 9,
         day: 9,
         hour: 17,
-        minute: 0
+        minute: 1
     })
 
 })(jQuery);
