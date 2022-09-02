@@ -184,9 +184,9 @@
     }
 
     $('.simple_timer').syotimer({
-        year: 2025,
+        year: 2022,
         month: 9,
-        day: 9,
+        day: 5,
         hour: 17,
         minute: 1
     })
