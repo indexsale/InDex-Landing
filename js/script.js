@@ -187,8 +187,8 @@
         year: 2025,
         month: 9,
         day: 9,
-        hour: 20,
-        minute: 30
+        hour: 17,
+        minute: 0
     })
 
 })(jQuery);
